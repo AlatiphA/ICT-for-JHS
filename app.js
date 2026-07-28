@@ -2075,7 +2075,7 @@ if (
         await navigator
           .serviceWorker
           .register(
-            "./sw.js"
+            "./sw-ict.js"
           );
 
       }
