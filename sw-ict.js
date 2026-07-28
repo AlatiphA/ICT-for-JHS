@@ -1,5 +1,5 @@
 /* =====================================================
-   GES Pasco — Service Worker
+   Service Worker
    ─────────────────────────────────────────────────
    HOW TO UPDATE:
    Bump APP_VERSION on every release (e.g. "1.0.1").
@@ -20,8 +20,8 @@ const FILES_TO_CACHE = [
   "./faq.html",
   "./style.css",
   "./app.js",
-  "./sw.js",
-  "./manifest.json",
+  "./sw-ict.js",
+  "./manifest-ict.json",
   "./library/sample.epub",
   "./icon-192.png",
   "./icon-512.png",
