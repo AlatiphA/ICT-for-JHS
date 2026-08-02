@@ -1,6 +1,6 @@
 {
-  "name": "AlatiphA ICT for JHS",
-  "short_name": "AlatiphA ICT",
+  "name": "ICT for JHS (Computing)",
+  "short_name": "ICT (Computing)",
   "description": "Offline EPUB reader for AlatiphA ICT for JHS — 2026 Edition",
   "version": "1.0.1",
   "start_url": "./index.html",
